@@ -1,0 +1,126 @@
+body {
+margin: 0;
+background-color: #BDC7C9;
+text-align: center;
+font-family: "Marck Script","Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1{font-size: 4.7rem;
+color: #285430;
+position: relative;
+right: 40px;
+margin-top: 50px;
+margin-left: 150px;
+family-font: "Marck Script"}
+
+h2{font-family: "Comfortaa";
+font-weight: normal;
+color: #285430;
+font-size: 1.5rem; }
+.skills_img{
+position: relative;
+display: inline;
+width: 200px;
+padding:20px;
+right:0;}
+
+h3{
+color: #285430;
+}
+
+.top-container{font-size: 2.25rem;
+width: 100%;
+white-space: nowrap;
+ margin: 10px 50px auto 10;
+height: 100px;
+width: 100%;
+border: 10px;
+margin: 0px;
+padding: 10px;
+position: absolute;
+}
+
+.middle-container{
+position: relative;
+top: 700px;
+}
+
+
+
+.web_dev_img{
+display:inline;
+padding: 20px;
+position: relative;
+width: 200px;}
+
+.paragraph{
+font-family:"Comfortaa";
+}
+
+.description{
+font-family:"Comfortaa";
+font-size: 1.25rem;
+width: 50%;
+margin-left: 300px;
+}
+
+.personal_description{
+font-family:"Comfortaa";
+font-size: 1.25rem;
+width: 50%;
+margin-left: 00px;
+}
+.table{
+fon-family:"Comfortaa"}
+
+.hr_dotted{
+position: relative;
+margin-left: 580px;
+top: 70px;
+border-style: none;
+border-top: 8px dotted #285430;
+height: none;
+width: 7%
+}
+
+.mountain{
+position: relative;
+right: 80px;
+margin: 0px;
+padding: 10px;
+}
+
+.my_photo{
+margin-top: 150px;
+border-radius: 50%;
+width: 200px;
+}
+
+.bottom-container{
+position:relative;
+background-color: #9BA17B;
+top: 50px;
+}
+
+.pro{
+padding: 10px;
+text-decoration: underline;
+}
+
+.cloud{
+position: relative;
+left: 50px;
+bottom:320px;
+}
+
+.top_cloud{
+position: relative;
+left: 250px;}
+
+.mountain{
+position: relative;
+top; 5px;
+right: 80px;
+margin: 0px;
+padding: 10px;
+}
